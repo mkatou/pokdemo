@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    padding-top: 50px;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input,
+button {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    border-color: gray;
+}
+
+select {
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.detail {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+/*  */
